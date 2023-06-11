@@ -1,0 +1,18 @@
+.custom-container {
+  padding: 30px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.custom-nav > a {
+  font-size: 1rem;
+  line-height: 1.6;
+  font-weight: 700;
+  font-family: sans-serif;
+  color: #000;
+  transition: all 0.2s case-in !important;
+  padding: 10px;
+}
+
+.custom-nav > a:active {
+  color: red !important;
+}
